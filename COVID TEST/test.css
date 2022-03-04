@@ -1,0 +1,12 @@
+body {
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+}
+
+.card-plus{
+    width: 50%;
+    height: 50%;
+    position: relative;
+}
